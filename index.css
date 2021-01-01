@@ -16,14 +16,12 @@ input{
 }
 .namingForm,
 .greetings,
-.toDoForm{
-    /* display: none; */
-
+.toDoForm{/*화면에 숨겨라*/
+     display: none;
+     font-size: 2.5em; 
+     text-align: center;
 }
-.showing{
+.showing{/*화면에 보여줘라*/
     display:block;
 }
-span{
-    /*display: block;*/
-    display: inline-block;
-} 
+
