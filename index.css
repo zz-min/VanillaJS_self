@@ -1,0 +1,29 @@
+body{
+    color:#666666 ;
+}
+
+.js-clock{
+    font-size: 5em;
+    text-align: center;
+} 
+input{
+    font-size: 3em;
+    text-align: center;
+    
+}
+.formCenter{
+    text-align: center;
+}
+.namingForm,
+.greetings,
+.toDoForm{
+    /* display: none; */
+
+}
+.showing{
+    display:block;
+}
+span{
+    /*display: block;*/
+    display: inline-block;
+} 
